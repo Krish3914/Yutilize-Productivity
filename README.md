@@ -6,6 +6,7 @@
 
 ## How it Works
 
+
 - Open YouTube page:
 
   - Click the extension button and
